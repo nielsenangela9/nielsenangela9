@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nielsenangela9
+- 👋 Hi, I'm Angela!
 - 👀 I’m interested in writing technical documentations, Penetration testing & Cloud Computing! 
 - 💞️ I’m looking to collaborate on projects that will require technical writing skills, Python, Powershell and/or C+ 
 
