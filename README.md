@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Angela!
-- 👀 I’m interested in writing technical documentations, Penetration testing & Cloud Computing! 
-- 💞️ I’m looking to collaborate on projects that will require technical writing skills, Python, Powershell and/or C+ 
+- 👀 I’m interested in writing technical documentations 
+- 💞️ I’m looking to collaborate on projects that will require technical writing skills 
 
 <!---
 nielsenangela9/nielsenangela9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
