@@ -1,6 +1,5 @@
 - 👋 Hi, I'm Angela!
-- 👀 I’m interested in writing technical documentations 
-- 💞️ I’m looking to collaborate on projects that will require technical writing skills 
+- 👀 I’m interested in writing technical documentations & contributing to cyber intelligence projects!
 
 <!---
 nielsenangela9/nielsenangela9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
