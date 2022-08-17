@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Angela!
-- 👀 I’m interested in writing technical documentations & contributing to cyber intelligence projects!
+- 👀 I’m interested in writing technical documentations & contributing to OSINT projects. 
 
 <!---
 nielsenangela9/nielsenangela9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
